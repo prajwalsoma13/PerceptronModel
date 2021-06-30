@@ -1,6 +1,6 @@
 import json
 
-with open("config.json") as f:
+with open("perceptronModel/config.json") as f:
     Configuration = json.load(f)
 
 

@@ -1,7 +1,7 @@
 import json
 import numpy as np
 
-from preceptronModel.Configuration import *
+from perceptronModel.Configuration import *
 
 
 class Perceptron:
